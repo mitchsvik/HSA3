@@ -1,0 +1,4 @@
+elasticsearch7
+fastapi
+motor
+uvicorn
